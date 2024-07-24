@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <table border="">
+        <tr>
+            <td><img style="float:upper ;"width="150"src="https://media.licdn.com/dms/image/D5603AQFhiowduFN-8Q/profile-displayphoto-shrink_400_400/0/1716443797063?e=1727308800&v=beta&t=VgNkjdgBF6hadA_USiw0d4MjulXLknTU39dnoUiInSw" alt=Hussain Photo""></td>
+            <td> 
+                <h1>Mohammed Muntasir Hussain</h1>
+                <p><i>Founder of Wanderviewss</p></i>
+                <p> I ❤️ web development </p>
+                <p>I ❤️ Photogrpahy</p></td>
+        </tr>
+    </table>
+   
+    <hr>
+
+    <!-- Header ends-->
+
+    <h3>Education </h3>
+    <table border="">
+        <tr>
+       <th>Course</th>
+       <th>Institute</th>
+       <th>Year</th>
+       <th>Result</th>
+    <tr>
+        <td>Btech in ECE</td>
+        <td>KLU, GUNTUR</td>
+        <td>2021</td>
+        <td>80.88%</td>
+    </tr>
+    <tr>
+        <td>12<sup>th</sup> grade</td>
+        <td>Bhahsyam junior college</td>
+        <td>2021</td>
+        <td>76.2%</td>
+    </tr>
+    <tr>
+        <td>10<sup>th</sup>grade</td>
+        <td>Bhashyam public school</td>
+        <td>2019</td>
+        <td>87.8%</td>
+    </tr>
+    </table>
+
+    <h3>Technical Skills</h3>
+    <ul>
+        <p>Languages: C, Java, HTML,CSS,JavaScript</p>
+        <p>Soft Skills: Problem Solving, Self-learning, Adaptability, strong communication skills</p>
+    </ul>
+        <h3>Internships</h3>
+        <p><strong>RTTC - BSNL Hyderabad</strong></p>
+        <p><i> Networking intern </i></p>
+        <ul>
+            <li><p>During my internship at BSNL-RTTC, Hyderabad, I was responsible for learning and assisting with telecommunication systems and 
+                network infrastructure. I gained practical insights into the functioning of telecommunication networks, including signal processing, 
+                network management, and troubleshooting.</p> </li> 
+        </ul>
+
+        <h3>Certifications</h3>
+        <ul>
+        <li><p>National Instrumental (NI) Certified LabVIEW Associate Developer (CLAD)</p></li>
+        </ul>
+        <ul>
+        <li><p>VLSI Design by TESSOLVE Semi-conductor, Pvt, ltd.</p></li>
+        </ul>
+        <h3>Projects</h3>
+        <ul>
+            <li><h3><Strong>MEMS self balancing robot</Strong></h3>
+            </li>
+                <p>Engineered a MEMS-based robot for automating slope detection in floors and beams,reducing manual operations and enhancing efficiency in construction projects.</p></li>
+                                
+               <li> <h3><strong>Embedded developer</strong></h3></li>
+                <p>Innovated a cutting-edge vehicle air pollution detection platform leveraging embedded 
+                    systems, enhancing pollutants traceability by 35% and expediting regulatory 
+                    compliance reporting by 20%. </p>
+            </li>
+            <li>
+                <h3><strong>Ultrasonic glassess</strong></h3>
+                <p>Created innovative glasses for the visually impaired using ultrasonic sensors. 
+                    Incorporated a beep system to alert users when objects are within 100cm, aiding 
+                    obstacle avoidance. Contributed to enhancing mobility and safety for the blind through 
+                    technology.</p>
+            </li>
+        </ul>
+        
+    <h3>Position of responsibility</h3>
+    <ul>
+        <p>Orchestrated the highly successful Samyak event, coordinating a team of 20+volunteers 
+            and overseeing all aspects of broadcasting at KL University, resulting in a 25% increase in 
+            event attendance. </p>
+        </ul>
+        <hr>
+
+
+        <!--Main section Ends-->
+        <h2>Connect with me</h2>
+        <p>Email:2100040239ece@gmail.com</p>
+        <p>Phone no: 7801043124</p>
+        <p>Linkdln:https://bit.ly/4bNWFwP</p>
+</body>   
+</html>
